@@ -1,0 +1,137 @@
+.kim{
+	width:300px;
+	height:200px;
+	background-color:#ffcccc;
+	overflow:visible;
+	margin-left:10px;
+	border:2px solid black;
+}
+
+.tim{
+	margin-top:150px;
+	width:300px;
+	height:200px;
+	background-color:#ecc6ec;
+	overflow:hidden;
+	margin-left:10px;
+	border:2px solid brown;
+
+}
+
+.sim{
+	width:300px;
+	height:200px;
+	background-color:#ffd1b3;
+	overflow:scroll;
+	margin-top:50px;
+	margin-left:10px;
+	border:2px solid red;		
+	
+}
+
+.lim{
+	width:300px;
+	height:200px;
+	background-color:#ccccff;
+	overflow:auto;
+	margin-top:50px;
+	margin-left:10px;
+	border:2px solid red;
+	
+}
+
+
+.naruto{
+	width:300px;
+	height:200px;
+	background-color:#ffff1a;
+	overflow-x:hidden;
+	overflow-y:scroll;
+	margin-top:50px;
+	margin-left:10px;
+	border:2px solid red;
+	
+}
+
+.jerry img:hover{
+	
+	transform:scale(3);
+	margin-left:10px;
+	cursor:zoom-in;
+	
+}
+
+.joon img:hover{
+	
+	filter:blur(2px);
+	cursor:pointer;
+	margin-left:10px;
+	
+}
+
+.park img:hover{
+	
+	filter:hue-rotate(160deg);
+	cursor:;
+}
+.run{
+	margin-left:20px;
+}
+
+.run:hover{
+	filter:brightness(120%);
+	
+}
+
+.ran{
+	margin-left:20px;
+}
+
+.ran:hover{
+	filter:contrast(300%);
+	
+}
+
+.rin{
+	margin-left:20px;
+}
+
+.rin:hover{
+	filter:grayscale(100%);
+	
+}
+
+
+
+.sing{
+	margin-left:20px;
+}
+
+.sing:hover{
+	filter:invert(150%);
+	cursor:crosshair;
+	
+}
+
+.sang{
+	margin-left:20px;
+}
+
+.sang:hover{
+	filter:saturate(4);
+	cursor:all-scroll;
+	
+}
+
+
+.sung{
+	margin-left:20px;
+}
+
+.sung:hover{
+	filter:sepia(100%);
+	cursor:copy;
+}
+
+
+
